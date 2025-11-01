@@ -16,7 +16,7 @@
 | User Experience/Markdown Cheat Sheet         | Quick overview of all syntax                                                                                                |
 | User Experience/Obsidian User Guide          | Covers graph view, vaults, and canvas                                                                                       |
 | PARA Method                                  | Learn to prioritize effectively                                                                                             |
-| User Experience/tag bank                     | Tag all of your documents, for easy search and zettelkasten(https://www.youtube.com/shorts/_EpWCw-X0T8) visualisation       |
+| User Experience/tag bank                     | Tag all of your documents, for easy search and [zettelkasten](https://www.youtube.com/shorts/_EpWCw-X0T8) visualisation       |
 ## Lesson Outline
 1. Basic text manipulation exercises (find, replace, other basic text manipulation)
 	- Open User Experience/Simple Text Editing Practice
