@@ -1,5 +1,5 @@
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 ### Learning Outcomes
 
 -  Recognize and apply Markdown syntax
@@ -11,6 +11,7 @@
 
 | Resource                                         | Description                                                                                                             |
 | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
+| https://obsidian.md/download | Software for this course |
 | User Experience/Simple Text Editing Practice | Real-world text clean-up examples                                                                                           |
 | User Experience/Markdown Cheat Sheet         | Quick overview of all syntax                                                                                                |
 | User Experience/Obsidian User Guide          | Covers graph view, vaults, and canvas                                                                                       |
@@ -28,4 +29,4 @@
 6. Introduce canvas
 7. Explore! Get their creativity going. Use PARA Method to introduce 
 Lesson 2 Exploring Ubuntu
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------h
+---
