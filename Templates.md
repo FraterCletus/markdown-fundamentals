@@ -1,3 +1,5 @@
+
+
 ## Free form notes template.
 ```text
 1. Open a new file and name it `notes.md`
@@ -13,6 +15,20 @@
 4. Save and preview your file in Obsidian or GitHub.
 5. Convert it using:  
 ```
+## Creating structured data
+```text
+---
+situation: ""
+mission: ""
+execution: ""
+logistics: ""
+communications: ""
+created: {{date}}
+
+---
+By changing the key words, you can streamline data entry, as required
+```
+
 ##  SWOT Analysis template...
 ```text
 ### Strengths:
