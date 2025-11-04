@@ -19,11 +19,11 @@ Don't forget to tag all documents! Open a [[User Experience/tag bank]] in a spli
 
 | **Menu**       | **[[Projects]]**            | **[[Areas]]**               | **[[Resources]]**            | **[[Archives]]**                 |
 | -------------- | --------------------------- | --------------------------- | ---------------------------- | -------------------------------- |
-| **Priority 1** | 🟢 [[Current Lesson Goal]]  | 🧩 [[Active Focus Area]]    | 📘 [[Key Reference]]         | 🗂️ [[Completed Work and Notes]] |
-| **Priority 2** | 🟢 [[Secondary Task]]       | 🧩 [[Support System]]       | 📘 [[Documentation Example]] | 🗂️ [[Backup or Old Version]]    |
-| **Priority 3** | 🔵 [[Optional Improvement]] | 🧩 [[Learning Review Area]] | 📘 [[Further Reading]]       | 🗂️ [[Archived Notes]]           |
-| **Priority 4** | ⚪ [[Future Consideration]]  | 🧩 [[Maintenance Area]]     | 📘 [[External Resource]]     | 🗂️ [[Long-Term Storage]]        |
-| **Priority 5** | ⚫ [[Someday Maybe]]         | 🧩 [[Experimental Zone]]    | 📘 [[Inspiration Folder]]    | 🗂️ [[Cold Archive]]             |
+| **Priority 1** | 🟢 [[Projects/Current Lesson Goal]]  | 🧩 [[Areas/Active Focus Area]]    | 📘 [[Resources/Key Reference]]         | 🗂️ [[Archives/Completed Work and Notes]] |
+| **Priority 2** | 🟢 [[Projects/Secondary Task]]       | 🧩 [[Areas/Support System]]       | 📘 [[Resources/Documentation Example]] | 🗂️ [[Archives/Backup or Old Version]]    |
+| **Priority 3** | 🔵 [[Projects/Optional Improvement]] | 🧩 [[Areas/Learning Review Area]] | 📘 [[Resources/Further Reading]]       | 🗂️ [[Archives/Archived Notes]]           |
+| **Priority 4** | ⚪ [[Projects/Future Consideration]]  | 🧩 [[Areas/Maintenance Area]]     | 📘 [[Resources/External Resource]]     | 🗂️ [[Archives/Long-Term Storage]]        |
+| **Priority 5** | ⚫ [[Projects/Someday Maybe]]         | 🧩 [[Areas/Experimental Zone]]    | 📘 [[ResourcesInspiration Folder]]    | 🗂️ [[Archives/Cold Archive]]             |
 
 ##### Cut and Paste Template
 
