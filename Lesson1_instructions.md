@@ -19,7 +19,7 @@
 * Open **Obsidian User Guide**.
 * Create a new vault and a few test notes.
 * Practice linking notes with `[[double brackets]]`.
-* Find any broken links marked "User interface/". Fix them so that they link to an active file.
+* Find any broken links. Fix them so that they link to an active file and not to a new page.
 
 ### Step 4. Convert Plain Text into a Markdown Vault
 
@@ -46,4 +46,5 @@
 * Classify your notes into four areas: Projects, Areas, Resources, Archives.
 * Tag and link your notes according to their purpose.
 * Review your structure and adjust for clarity and ease of navigation.
+
 
