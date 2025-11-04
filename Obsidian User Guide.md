@@ -1,5 +1,5 @@
-[[User Experience/tag bank]]
-![[User Experience/tag bank#✍️ markdown]]
+[[tag bank]]
+![[tag bank#✍️ markdown]]
 Obsidian and Markdown let you **own your data** — everything’s stored in plain text, readable anywhere, forever.  
 They help you **think in connections**, turning simple notes into a living network of ideas and documentation.  
 Perfect for developers, creators, and small businesses, it’s the **fastest, most secure way** to build knowledge systems without paying to store your own ideas.
@@ -23,8 +23,8 @@ TIMESTAMPS
 13:43 AI & Obsidian's Future
 
 #### Using a Tag Bank
-Call on your [[User Experience/tag bank]] to help organise documents by subject tags. Very useful! Think Instagram, bug for your own brain!
-![[User Experience/tag bank#✍️ markdown]]
+Call on your [[tag bank]] to help organise documents by subject tags. Very useful! Think Instagram, bug for your own brain!
+![[tag bank#✍️ markdown]]
 ## Using the [[PARA Method]]
 ![[PARA Method]]
 
