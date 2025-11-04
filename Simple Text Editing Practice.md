@@ -35,13 +35,13 @@ Follow each step carefully and save your progress as `text_exercise_1.txt`.
 1. Copy these three lines:
 
    ```
-      Bananas are yellow.
+   Bananas are yellow.
    Watermelons are green.
    Grapes are purple.
    Apples are red.
    ```
 2. Rearrange them so they appear in **alphabetical order** by fruit name.
-3. Delete the middle line.
+3. Delete the line regarding Grapes.
 4. Duplicate the last remaining line twice.
 
 ---
