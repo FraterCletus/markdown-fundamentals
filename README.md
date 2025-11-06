@@ -30,3 +30,7 @@
 7. Explore! Get their creativity going. Use PARA Method to introduce 
 Lesson 2 Exploring Ubuntu
 ---
+
+If you find the lessons provided have impacted you positively, please feel free to donate to my PayPal account: mthomasson14@gmail.com
+
+Thanks! 
